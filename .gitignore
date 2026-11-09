@@ -1,0 +1,5 @@
+// Quelle est la fichier peut etre ignoré par git dans ce projet ?
+node_modules/
+*.db
+.env
+*.log
